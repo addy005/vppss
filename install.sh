@@ -24,4 +24,4 @@ apt install zip -y
 apt install unzip -y 
 apt install falkon -y 
 apt-get autoclean -y 
-apt-get autoremove
+apt-get autoremove -y
